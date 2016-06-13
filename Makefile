@@ -94,7 +94,7 @@ LATEXTARGET=thesis$(VERSION)
 # For example:
 # latexclean::
 #     rm -f foo.bar
-# This way both the origional definition in this Makefile and your own are
+# This way both the original definition in this Makefile and your own are
 # used.
 
 #.SILENT:
